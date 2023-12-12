@@ -1,0 +1,15 @@
+.button button{
+    background: linear-gradient(90deg,var(--Lime-Green),var(--Bright-Cyan));
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    letter-spacing: 1px;
+    transition: all 0.1s ease;
+}
+.button button:hover {
+    opacity: 0.5;
+}
